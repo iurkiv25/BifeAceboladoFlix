@@ -1,4 +1,30 @@
 body {
+    color: 
+    background: rgb(211, 13, 13);
+} 
+    margin: 
+}
+
+header {
+    border-bottom: 
+    padding: 
+    font-size: 
+    color: 
+}
+
+section {
+    background: rgb
+    padding-bottom: 
+    padding-top: 
+    display: 
+    justify-content: 
+}
+
+.chamada-texto {
+    
+}
+
+body {
     color: rgb(0, 0, 0);
     background: rgb(211, 13, 13);
 }
